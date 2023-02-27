@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navImg{
+    width: 100vw;
+    height: 8vh;
+}
+.headings{
+    margin-top: 10px;
+    margin-left: 124px;
+    font-size: 26px;
+    font-weight: bolder;
+    margin-bottom: 14px;
+}
+.orderFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.orderImg{
+    width: 20vw;
+    border: 1px solid black;
+}
+.sub{
+    margin-top: 10px;
+}
+.para{
+    margin-top: 13px;
+    font-weight: bold;
+}
+.head2{
+    margin-top: 40px;
+}
+.productsFlex1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#prodId{
+    margin-top: 47px;
+}
+#setImg{
+    margin-left: 29px;
+}
+#fristHead{
+    margin-left: 26px;
+}
+.itemsName{
+    margin-top: 11px;
+    margin-left: 136px;
+}
+.itemsName2{
+    margin-top: 11px;
+    margin-left: 134px;
+}
+.itemsName1{
+    margin-top: 11px;
+    margin-left: 80px;
+}
